@@ -9,9 +9,8 @@ This file contains social media links that are within the "Contact Me" tab in th
 ## mypage.html
 This is the front page of the interactive webpage that contains tabs for users to click on. 
 
-## mypage.js
-
 ## photo.html
+Adds images to the photo tab. 
 
 ## styles.css
 This file is in charge of adding font style, size or color to the webpage. I used CSS for aesthetic purposes. 
