@@ -1,0 +1,54 @@
+
+body{
+  font-family: "courier new", sans-serif;
+  font-size: 18px;
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+
+h4{
+  color: #8775D1;
+}
+h1{
+  color: #FFE381;
+  font-family
+
+}
+ a{
+   color: #FFE381;
+ }
+
+ /* Add a black background color to the top navigation */
+.topnav {
+    background-color: black;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: center;
+    display: inline-grid;
+    color: #FFE381;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: white;
+    color: black;
+}
+
+/* Add an active class to highlight the current page */
+.active {
+    background-color: black;
+    color: white;
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+    display: none;
+}
