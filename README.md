@@ -7,7 +7,7 @@ This file contains the information that appears when the "About Me" tab is click
 This file contains social media links that are within the "Contact Me" tab in the homepage. 
 
 ## mypage.html
-
+This is the front page of the interactive webpage that contains tabs for users to click on. 
 
 ## mypage.js
 
