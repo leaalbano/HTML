@@ -14,3 +14,4 @@ This is the front page of the interactive webpage that contains tabs for users t
 ## photo.html
 
 ## styles.css
+This file is in charge of adding font style, size or color to the webpage. I used CSS for aesthetic purposes. 
